@@ -1,0 +1,49 @@
+body, h1, h2, h3, h4, h5, h6 {
+    font-family: "Karma", sans-serif;
+}
+
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 95%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px; 
+  background-color: white; 
+  z-index: 1000;
+    
+  }
+  
+  .icon {
+    width: 35px;
+    height: 40px;
+    cursor: pointer;
+    margin-left: 150px; 
+    margin-top: 20px;
+  }
+  
+  h2 {
+    margin: 0;
+  }
+  
+
+  .icon:hover {
+    filter: brightness(0.8); 
+  }
+
+  .my-food{
+    margin-left: 150px;
+    margin-top: 20px;
+    color:rgb(31, 30, 30);
+    font-weight: 200;
+  }
+
+  .mail{
+    margin-left: 200px;
+    margin-right: 40px;
+    margin-top: 20px;
+    color:rgb(31, 30, 30);
+    font-weight: 200;
+  }

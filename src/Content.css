@@ -1,0 +1,106 @@
+body, h1, h2, h3, h4, h5, h6 {
+    font-family: "Karma", sans-serif;
+}
+
+.image-row {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0 0 0; 
+    max-width: 1200px;
+  }
+
+  .sandwich {
+    width: 300px; 
+    margin-top: 100px;
+    margin-left: 140px;
+    height: 420px; 
+  }
+
+  .sandwich-heading{
+    font-weight: 400;
+    text-align: center;
+    margin-top: 20px;
+    align-items: center;
+    margin-left: 151px;
+  }
+
+  .sandwich-paragraph{
+    margin-top: 20px;
+    margin-left: 150px;
+  }
+
+  .image-item {
+    text-align: center;
+    margin-bottom: 20px;  
+  }  
+
+  .steak {
+    width: 300px; 
+    margin-top: 100px;
+    margin-left: 15px;
+    height: 420px; 
+  }
+
+  .steak-heading{
+    font-weight: 400;
+    text-align: center;
+    margin-top: 20px;
+    align-items: center;
+    margin-left: 10px;
+  }
+
+  .steak-paragraph{
+    margin-top: 20px;
+    margin-left: 20px;
+  }
+  
+  .cherries {
+    width: 300px; 
+    margin-top: 100px;
+    margin-left: 15px;
+    height: 420px; 
+  }
+
+  .wine {
+    width: 300px; 
+    margin-top: 100px;
+    margin-left: 15px;
+    height: 420px; 
+  }
+
+  .image-row1 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 0; 
+    max-width: 1200px;
+  }
+
+  .popsicle {
+    width: 300px; 
+    margin-top: 10px;
+    margin-left: 140px;
+    height: 420px; 
+  }
+
+  .salmon {
+    width: 300px; 
+    margin-top: 10px;
+    margin-left: 15px;
+    height: 420px; 
+  }
+
+  .sandwich1 {
+    width: 300px; 
+    margin-top: 10px;
+    margin-left: 15px;
+    height: 420px; 
+  }
+
+  .croissant {
+    width: 300px; 
+    margin-top: 10px;
+    margin-left: 15px;
+    height: 420px; 
+  }
+
+  

@@ -1,0 +1,24 @@
+body, h1, h2, h3, h4, h5, h6 {
+    font-family: "Karma", sans-serif;
+}
+
+.about-container {
+    text-align: center;
+    margin-top: 100px;
+    padding: 20px;
+  }
+  
+  .about-heading {
+    font-size: 2em;
+    margin-bottom: 20px;
+    font-weight: 400;
+  }
+  
+  .heading{
+    font-weight: 500;
+    font-style: italic;
+  }
+  .paragraph{
+    margin-left: 200px;
+    margin-right: 200px;
+  }
