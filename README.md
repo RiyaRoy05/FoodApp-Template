@@ -32,16 +32,16 @@ A template for a food application built with React.js. This template provides a 
 
 ## Features
 
-• Display a list of food items
-• Filter food items by category
-• Search for food items by name
-• Responsive design for mobile and desktop
+- GitHubDisplay a list of food items
+- Filter food items by category
+- Search for food items by name
+- Responsive design for mobile and desktop
 
 ## Contributing
 
 Contributions are welcome! Please follow these steps to contribute:
 
-1. Fork the repository
+1.Fork the repository
 
 2.Create a new branch for your feature or bugfix:
     git checkout -b feature/your-feature-name
